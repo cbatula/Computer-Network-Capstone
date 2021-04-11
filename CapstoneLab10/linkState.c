@@ -1,10 +1,3 @@
-/*
-Name: Matias Sebastian Murgui Orsucci
-Date: 11//18
-Title: Lab 10
-Description: Link State algorithm (Dijkstra's algorithm for shortest path problem)
-*/
-
 #include <string.h>
 #include <stdlib.h>
 #include <stdio.h>
