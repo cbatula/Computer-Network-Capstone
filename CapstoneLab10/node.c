@@ -1,11 +1,3 @@
-//
-//  node.c
-//  CapstoneLab10
-//
-//  Created by Chris on 11/28/18.
-//  Copyright © 2018 Chris. All rights reserved.
-//
-
 #include <fcntl.h>
 #include <arpa/inet.h>
 #include <unistd.h>
